@@ -27,7 +27,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rr'
   s.add_development_dependency 'fabrication'
   s.add_development_dependency 'faker'
-  s.add_development_dependency 'ruby-debug'
   s.add_development_dependency 'guard'
   s.add_development_dependency 'guard-bundler'
   s.add_development_dependency 'guard-cucumber'
