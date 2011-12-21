@@ -28,6 +28,8 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'fabrication'
   s.add_development_dependency 'faker'
   s.add_development_dependency 'guard'
+  s.add_development_dependency 'rb-fsevent'
+  s.add_development_dependency 'rb-readline'
   s.add_development_dependency 'guard-bundler'
   s.add_development_dependency 'guard-cucumber'
   s.add_development_dependency 'guard-rspec'
